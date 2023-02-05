@@ -1,6 +1,6 @@
 ---
-permalink: /contacts/
-title: "Contacts"
+permalink: /contact/
+title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
