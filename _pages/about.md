@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Graziano Frungieri research website"
+title: "Graziano Frungieri Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
