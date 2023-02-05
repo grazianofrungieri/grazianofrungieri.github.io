@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Graziano Frungieri"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor RTD/A"
   location         : "Politecnico di Torino"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=LXZ7mUUAAAAJ&hl=it&oi=ao"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Graziano-Frungieri-2"
