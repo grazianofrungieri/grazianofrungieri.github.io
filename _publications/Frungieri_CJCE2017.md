@@ -10,6 +10,7 @@ citation: 'G. Frungieri, M. Vanni (2017). &quot;Paper Title Number 1.&quot; <i>J
 ---
 This paper is about the study of the aggregation of colloidal particles in shear flow. We implemented a tangetial force model and assessed its effects on the dynamics of aggregation and aggregate morphology
 
+
 [Download paper here](http://grazianofrungieri.github.io/files/Frungieri_CJCE2017.pdf)
 
 Recommended citation: G. Frungieri, M. Vanni (2017). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
