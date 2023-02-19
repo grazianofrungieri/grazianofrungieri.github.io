@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-Curriculum vitae as of February 2023
+Curriculum vitae as of February 2023.<br>
 If the embedded PDF below does not load, you can <u><a href="https://grazianofrungieri.github.io/CVFrungieri_Feb2023.pdf">download it here.</a></u>
 <br/>
 
