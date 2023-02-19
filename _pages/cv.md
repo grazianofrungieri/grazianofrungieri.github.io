@@ -19,4 +19,3 @@ If the embedded PDF below does not load, you can <u><a href="https://grazianofru
 
 <embed src="https://grazianofrungieri.github.io/CVFrungieri_Feb2023.pdf" type="application/pdf" width="100%" />
 
-https://grazianofrungieri.github.io/cv/
